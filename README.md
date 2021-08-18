@@ -9,8 +9,8 @@ Step 1- Download the transaction data "online_retail_II.xlsx"  from https://arch
 
 Step 2- Run Pandas_Profile.ipynb (pandas profile output)
 
-Step 3- Run Msc_CVL_code EDA.ipynb
+Step 3- Run Msc_CVL_code EDA.ipynb (Entire EDA process )
 
-Step 4- Run Msc_CVL_code Clustering ML Selection_withC.ipynb
+Step 4- Run Msc_CVL_code Clustering ML Selection_withC.ipynb (Experiment of RFM manual and RFM lifetime with k-means,dbscan and GMM ,cluster generation )
 
-Step 5- Experiment_12 clean_with_C_RFM_M-ALL
+Step 5- Experiment_12 clean_with_C_RFM_M-ALL (Model building, using Voting classification, explain voting classification prediction)
